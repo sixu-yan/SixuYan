@@ -11,7 +11,7 @@
 📫 How to reach me: yansixu@hust.edu.cn. 
 
 <!--
-**SixuYan/SixuYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sixu-yan/sixu-yan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
