@@ -1,4 +1,4 @@
-### Hi there 👋, this is Sixu Yan
+### Hi there 👋, this is Sixu.
 
 😄 I'm a first-year Ph.D. student at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
 
